@@ -1,2 +1,3 @@
-# unity-cookbook-2018-ch15-06-follow-waypoints-in-sequence
-Chapter 15 - recipe 6 - NPC follow waypoints in sequence
+# unity-cookbook-2018-ch13-06-follow-waypoints-in-sequence
+
+NPC follow waypoints in sequence
